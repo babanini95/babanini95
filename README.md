@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Go and aiming to focus more on backend development
 - :email: arobbanii5@gmail.com
 
-📊 **This week I spent my time on**
+<!-- 📊 **This week I spent my time on** -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
